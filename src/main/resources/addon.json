@@ -1,0 +1,10 @@
+{
+  "uuid": "%uuid%",
+  "name": "AutoGL",
+  "mainClass": "de.theniclas.autogl.main.Main",
+  "description": "This addon writes gl at the start of a round on GommeHD.net",
+  "version": 1,
+  "author": "nvclas",
+  "category": 3,
+  "icon": "https://i.imgur.com/2EPVpR5.png"
+}
