@@ -20,7 +20,6 @@ reobf {
     }
 }
 
-version = ""
 group= "de.theniclas.autogl"
 archivesBaseName = "AutoGL"
 
